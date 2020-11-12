@@ -1,0 +1,604 @@
+Oct 08, 2020 12:26:58 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 12:27:08 AM pain.t.LogActivity lambda$run$0
+INFO: Rectangle Tool Active Save Status Is: false
+Oct 08, 2020 12:27:18 AM pain.t.LogActivity lambda$run$0
+INFO: Polygon Tool Active Save Status Is: false
+Oct 08, 2020 8:15:04 AM pain.t.LogActivity lambda$run$0
+INFO: Line Tool Active Save Status Is: false
+Oct 08, 2020 8:15:14 AM pain.t.LogActivity lambda$run$0
+INFO: Square Tool Active Save Status Is: false
+Oct 08, 2020 8:15:24 AM pain.t.LogActivity lambda$run$0
+INFO: Square Tool Active Save Status Is: false
+Oct 08, 2020 8:15:44 AM pain.t.LogActivity lambda$run$0
+INFO: Color Grabber Active Save Status Is: false
+Oct 08, 2020 8:15:54 AM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 08, 2020 8:17:26 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:17:36 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:17:46 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:17:56 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:18:06 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:18:16 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:18:26 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:18:36 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:18:46 AM pain.t.LogActivity lambda$run$0
+INFO: Rectangle Tool Active Save Status Is: true
+Oct 08, 2020 8:18:56 AM pain.t.LogActivity lambda$run$0
+INFO: Rectangle Tool Active Save Status Is: true
+Oct 08, 2020 8:19:06 AM pain.t.LogActivity lambda$run$0
+INFO: Rectangle Tool Active Save Status Is: true
+Oct 08, 2020 8:19:30 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:19:40 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:19:50 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:20:00 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:20:10 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:20:20 AM pain.t.LogActivity lambda$run$0
+INFO: Copy Paste Tool Active Save Status Is: false
+Oct 08, 2020 8:20:30 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 08, 2020 8:20:40 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 8:20:50 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 08, 2020 8:21:00 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 8:21:10 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 8:27:54 AM pain.t.LogActivity lambda$run$0
+INFO: Line Tool Active Save Status Is: false
+Oct 08, 2020 8:28:04 AM pain.t.LogActivity lambda$run$0
+INFO: Line Tool Active Save Status Is: false
+Oct 08, 2020 8:28:14 AM pain.t.LogActivity lambda$run$0
+INFO: Line Tool Active Save Status Is: true
+Oct 08, 2020 8:28:24 AM pain.t.LogActivity lambda$run$0
+INFO: Line Tool Active Save Status Is: true
+Oct 08, 2020 8:28:34 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:28:44 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:28:54 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:29:04 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:29:14 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:29:24 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:29:34 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:29:44 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: true
+Oct 08, 2020 8:30:07 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 08, 2020 8:30:17 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 08, 2020 8:30:27 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:30:37 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:30:47 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:30:57 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 8:31:07 AM pain.t.LogActivity lambda$run$0
+INFO: Copy Paste Tool Active Save Status Is: false
+Oct 08, 2020 8:31:17 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 08, 2020 8:31:27 AM pain.t.LogActivity lambda$run$0
+INFO: Rectangle Tool Active Save Status Is: false
+Oct 08, 2020 8:31:37 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 8:31:47 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 8:31:57 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 08, 2020 8:35:36 AM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 08, 2020 3:16:11 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:50:25 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:50:35 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:50:45 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:50:55 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:51:05 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:51:15 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:51:40 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 08, 2020 4:51:50 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 9:20:00 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 9:20:10 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 9:20:20 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 09, 2020 9:20:30 AM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 9:20:40 AM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 09, 2020 3:08:40 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:08:50 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:09:00 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:09:10 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:09:20 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:10:37 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 3:10:47 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 3:10:57 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 3:45:36 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 3:45:46 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 09, 2020 3:45:56 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:46:06 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:46:16 PM pain.t.LogActivity lambda$run$0
+INFO: Eraser Tool Active Save Status Is: false
+Oct 09, 2020 3:46:26 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 09, 2020 3:46:36 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 09, 2020 3:46:46 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 09, 2020 3:46:56 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 09, 2020 3:47:06 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 09, 2020 3:47:16 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 09, 2020 3:47:26 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 09, 2020 3:47:36 PM pain.t.LogActivity lambda$run$0
+INFO: Polygon Tool Active Save Status Is: false
+Oct 09, 2020 4:19:53 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 09, 2020 4:20:03 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 09, 2020 4:20:13 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 3:36:52 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 16, 2020 3:37:02 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 16, 2020 4:15:27 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 4:15:37 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 4:15:47 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 4:15:57 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 4:16:07 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 4:16:17 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 16, 2020 4:16:27 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 16, 2020 4:16:37 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 16, 2020 4:16:47 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 16, 2020 4:16:57 PM pain.t.LogActivity lambda$run$0
+INFO: Square Tool Active Save Status Is: false
+Oct 16, 2020 4:17:07 PM pain.t.LogActivity lambda$run$0
+INFO: Square Tool Active Save Status Is: false
+Oct 16, 2020 4:17:17 PM pain.t.LogActivity lambda$run$0
+INFO: Square Tool Active Save Status Is: false
+Oct 16, 2020 4:17:27 PM pain.t.LogActivity lambda$run$0
+INFO: Polygon Tool Active Save Status Is: false
+Oct 16, 2020 4:17:37 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 16, 2020 4:17:47 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 16, 2020 4:17:57 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 16, 2020 4:18:07 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 16, 2020 4:18:17 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 16, 2020 11:46:48 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 16, 2020 11:46:58 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 16, 2020 11:47:08 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 21, 2020 7:53:03 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:53:13 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:53:23 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:53:33 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:53:43 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:53:53 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:54:03 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:54:13 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:54:23 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:54:33 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:54:43 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:54:53 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:55:03 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:55:13 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:55:23 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:55:33 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:55:43 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:55:53 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:56:03 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:56:13 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:56:23 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:56:33 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:56:43 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:56:53 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 7:57:03 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 21, 2020 8:30:55 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 8:31:05 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 8:31:15 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 21, 2020 8:31:25 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Oct 21, 2020 8:31:35 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Oct 21, 2020 8:31:45 PM pain.t.LogActivity lambda$run$0
+INFO: Polygon Tool Active Save Status Is: false
+Oct 21, 2020 9:04:55 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 21, 2020 9:05:05 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 21, 2020 9:05:15 PM pain.t.LogActivity lambda$run$0
+INFO: MUAHAHAHA BE THANKFUL FOR YOUR DEADLINE EXTENSIONS Save Status Is: false
+Oct 21, 2020 9:05:25 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:38:58 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Nov 11, 2020 9:39:08 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Nov 11, 2020 9:39:18 PM pain.t.LogActivity lambda$run$0
+INFO: Polygon Tool Active Save Status Is: false
+Nov 11, 2020 9:41:37 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:41:47 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:41:57 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:43:59 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:44:09 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:44:19 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:56:32 PM pain.t.LogActivity lambda$run$0
+INFO: Pencil Tool Active Save Status Is: false
+Nov 11, 2020 9:56:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:56:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:57:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:57:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:57:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:57:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:57:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:57:52 PM pain.t.LogActivity lambda$run$0
+INFO: Copy Paste Tool Active Save Status Is: false
+Nov 11, 2020 9:58:02 PM pain.t.LogActivity lambda$run$0
+INFO: Rectangle Tool Active Save Status Is: false
+Nov 11, 2020 9:58:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:58:22 PM pain.t.LogActivity lambda$run$0
+INFO: Copy Paste Tool Active Save Status Is: false
+Nov 11, 2020 9:58:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:58:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:58:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:59:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:59:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:59:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:59:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:59:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 9:59:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:00:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:00:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:00:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:00:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:00:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:00:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:01:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:01:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:01:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:01:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:01:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:01:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:02:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:02:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:02:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:02:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:02:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:02:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:03:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:03:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:03:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:03:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:03:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:03:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:04:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:04:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:04:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:04:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:04:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:04:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:05:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:05:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:05:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:05:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:05:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:05:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:06:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:06:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:06:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:06:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:06:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:06:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:07:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:07:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:07:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:07:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:07:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:07:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:08:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:08:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:08:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:08:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:08:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:08:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:09:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:09:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:09:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:09:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:09:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:09:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:10:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:10:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:10:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:10:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:10:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:10:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:11:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:11:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:11:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:11:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:11:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:11:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:12:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:12:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:12:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:12:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:12:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:12:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:13:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:13:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:13:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:13:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:13:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:13:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:14:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:14:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:14:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:14:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:14:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:14:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:15:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:15:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:15:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:15:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:15:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:15:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:16:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:16:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:16:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:16:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:16:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:16:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:17:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:17:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:17:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:17:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:17:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:17:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:18:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:18:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:18:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:18:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:18:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:18:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:19:02 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:19:12 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:19:22 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:19:32 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:19:42 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 10:19:52 PM pain.t.LogActivity lambda$run$0
+INFO: No Tool Selected Save Status Is: false
+Nov 11, 2020 11:21:46 PM pain.t.LogActivity lambda$run$0
+INFO: Line Tool Active Save Status Is: false
