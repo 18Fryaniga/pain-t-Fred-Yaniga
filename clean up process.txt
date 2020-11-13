@@ -1,6 +1,0 @@
-The process which I did to clean up my code was to go through manually and indent things better.
-I also got rid of white space and made sure to have consistant organization of methods.
-After this I turned my comments into javadoc code and created the javadoc.
-I uploaded everything to github.
-Then I wrote out 2 UML elements like was asked.
-Then I made sure to add comments describing each of the 
